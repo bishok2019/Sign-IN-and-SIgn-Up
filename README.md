@@ -2,7 +2,7 @@ to run this application you will need to install:
 
 XAMPP: PhpMyAdmin, MYSQL and Apache. While installing XAMPP it will ask to choose , where you need to choose PhpMyAdmin, MYSQL and Apache.
 
-IDE: install the editor like vs code,sublimetext, etc as you comfort
+IDE: install the editor like vs code,sublimetext, etc as your comfort
 
 Browser: Google Chrome, Firefox, etc.
 
